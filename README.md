@@ -3,7 +3,7 @@ Copy-Paste Augmentation for Traffic Sign
 
 
 ## Project Design
-
+```
 cp-aug-traffic-sign
 ├── src/ (haven't got any robust dev code yet - leave as a placeholder)
 │     ├── ...
@@ -20,3 +20,4 @@ cp-aug-traffic-sign
 │     ├── 1-train-Faster-RCNN
 │     ├── ...
 └── README.md
+```
